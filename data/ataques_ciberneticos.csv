@@ -1,0 +1,501 @@
+data,tipo_ataque,setor,pais,severidade,status,prejuizo_usd,sistemas_afetados,tempo_resposta_horas,ano,mes
+2023-08-02,Brute Force,Educação,Rússia,Alta,Resolvido,27905.9,103,639,2023,8
+2020-08-16,SQL Injection,Financeiro,Argentina,Média,Não resolvido,1681072.03,436,155,2020,8
+2020-02-21,Phishing,Financeiro,Japão,Média,Resolvido,254204.0,349,490,2020,2
+2024-02-27,Brute Force,Varejo,Argentina,Crítica,Resolvido,144737.65,271,386,2024,2
+2021-07-17,Ransomware,Saúde,Japão,Média,Resolvido,2789924.07,107,104,2021,7
+2021-05-16,DDoS,Varejo,China,Baixa,Contido,309753.65,72,393,2021,5
+2021-04-02,Zero-Day,Educação,China,Alta,Contido,8380294.67,189,246,2021,4
+2020-10-12,Engenharia Social,Energia,França,Alta,Contido,784590.81,21,176,2020,10
+2024-02-17,Phishing,Tecnologia,Rússia,Alta,Resolvido,129428.14,103,39,2024,2
+2020-07-28,Ransomware,Saúde,Alemanha,Alta,Resolvido,2980692.85,122,477,2020,7
+2023-10-17,Ransomware,Educação,China,Alta,Resolvido,2226137.06,467,682,2023,10
+2024-02-25,Phishing,Financeiro,Alemanha,Crítica,Resolvido,461715.39,215,538,2024,2
+2023-01-21,SQL Injection,Saúde,China,Alta,Contido,1065657.69,331,408,2023,1
+2020-06-27,Brute Force,Telecomunicações,Reino Unido,Alta,Em investigação,176468.62,459,525,2020,6
+2023-04-24,Ransomware,Varejo,Argentina,Média,Resolvido,4388121.2,88,506,2023,4
+2022-05-14,SQL Injection,Saúde,Índia,Média,Resolvido,624870.07,373,36,2022,5
+2020-03-06,DDoS,Educação,EUA,Alta,Em investigação,800505.87,100,685,2020,3
+2020-03-02,Ransomware,Energia,Índia,Crítica,Resolvido,2367240.91,360,20,2020,3
+2020-07-10,Phishing,Saúde,Reino Unido,Alta,Em investigação,467781.71,152,321,2020,7
+2021-03-23,Phishing,Saúde,China,Média,Não resolvido,258791.46,131,512,2021,3
+2021-04-21,Zero-Day,Tecnologia,Índia,Alta,Resolvido,8241384.84,150,400,2021,4
+2022-10-31,Zero-Day,Tecnologia,Reino Unido,Alta,Resolvido,2971822.04,309,654,2022,10
+2023-05-17,DDoS,Varejo,Índia,Média,Resolvido,333628.06,258,471,2023,5
+2020-02-24,Engenharia Social,Tecnologia,Brasil,Alta,Resolvido,477811.42,344,143,2020,2
+2023-02-23,Brute Force,Varejo,Alemanha,Alta,Resolvido,199785.95,492,92,2023,2
+2021-02-11,Phishing,Varejo,França,Alta,Em investigação,249923.77,414,354,2021,2
+2024-01-06,Phishing,Governo,EUA,Baixa,Contido,82811.76,294,51,2024,1
+2023-08-23,Ransomware,Educação,França,Crítica,Em investigação,2923612.6,386,665,2023,8
+2023-12-07,Zero-Day,Governo,Brasil,Alta,Resolvido,3582214.63,192,698,2023,12
+2023-01-21,SQL Injection,Saúde,Reino Unido,Média,Contido,1148643.09,444,575,2023,1
+2022-05-09,Engenharia Social,Saúde,Argentina,Alta,Resolvido,443875.45,277,190,2022,5
+2021-03-27,Zero-Day,Financeiro,Alemanha,Crítica,Resolvido,4662377.25,161,125,2021,3
+2022-07-08,Phishing,Financeiro,Argentina,Alta,Resolvido,167670.9,460,150,2022,7
+2023-04-21,Phishing,Energia,Japão,Alta,Resolvido,102439.66,314,314,2023,4
+2021-07-23,Phishing,Governo,Alemanha,Alta,Em investigação,351774.23,22,570,2021,7
+2024-07-15,SQL Injection,Saúde,EUA,Média,Em investigação,1186415.52,253,342,2024,7
+2024-11-15,Zero-Day,Financeiro,Argentina,Crítica,Resolvido,2488911.97,236,305,2024,11
+2020-01-14,Ransomware,Financeiro,Rússia,Alta,Não resolvido,3989950.14,345,692,2020,1
+2024-04-03,Brute Force,Tecnologia,Índia,Alta,Resolvido,13511.22,49,682,2024,4
+2024-07-08,Phishing,Financeiro,Argentina,Baixa,Resolvido,374905.52,475,54,2024,7
+2020-11-22,Zero-Day,Varejo,Brasil,Alta,Em investigação,7111233.23,59,444,2020,11
+2023-11-30,Engenharia Social,Tecnologia,Reino Unido,Alta,Contido,652898.94,170,613,2023,11
+2022-05-15,Man-in-the-Middle,Energia,Reino Unido,Média,Resolvido,250064.89,476,264,2022,5
+2021-11-27,Engenharia Social,Financeiro,França,Alta,Em investigação,537677.29,188,53,2021,11
+2021-07-23,Zero-Day,Saúde,Argentina,Baixa,Contido,8243326.01,464,572,2021,7
+2020-11-14,Phishing,Varejo,Argentina,Crítica,Resolvido,490600.89,271,620,2020,11
+2021-03-16,SQL Injection,Financeiro,EUA,Alta,Resolvido,1041124.43,190,5,2021,3
+2024-04-12,Ransomware,Saúde,Japão,Média,Contido,666588.25,446,103,2024,4
+2021-11-20,Zero-Day,Financeiro,EUA,Alta,Não resolvido,5122453.27,175,196,2021,11
+2020-07-28,Engenharia Social,Tecnologia,Argentina,Crítica,Resolvido,480340.73,446,350,2020,7
+2020-07-08,Engenharia Social,Varejo,Argentina,Média,Contido,698366.24,51,47,2020,7
+2022-02-17,Engenharia Social,Tecnologia,Rússia,Baixa,Resolvido,701868.49,364,656,2022,2
+2020-07-17,Ransomware,Financeiro,Alemanha,Média,Em investigação,2481377.94,55,269,2020,7
+2022-01-05,SQL Injection,Governo,Argentina,Alta,Em investigação,1099307.06,244,370,2022,1
+2024-10-01,Phishing,Governo,Argentina,Alta,Em investigação,233894.76,320,636,2024,10
+2021-12-05,Engenharia Social,Varejo,Argentina,Alta,Resolvido,583506.19,131,106,2021,12
+2023-05-21,Engenharia Social,Saúde,Japão,Alta,Contido,339783.32,485,670,2023,5
+2021-06-25,Phishing,Governo,Brasil,Média,Resolvido,330842.85,307,659,2021,6
+2024-07-10,Engenharia Social,Saúde,Reino Unido,Média,Resolvido,140401.75,135,657,2024,7
+2020-03-29,DDoS,Varejo,EUA,Alta,Não resolvido,496016.07,21,120,2020,3
+2024-02-03,Ransomware,Governo,Argentina,Alta,Resolvido,4861416.34,329,604,2024,2
+2022-07-29,SQL Injection,Governo,China,Alta,Resolvido,743266.34,167,58,2022,7
+2023-01-03,Phishing,Saúde,Argentina,Média,Não resolvido,349425.25,274,346,2023,1
+2020-09-12,Phishing,Tecnologia,Reino Unido,Baixa,Contido,328419.96,388,474,2020,9
+2022-02-14,Phishing,Governo,Alemanha,Baixa,Resolvido,427364.99,89,117,2022,2
+2020-06-10,Ransomware,Tecnologia,Argentina,Média,Resolvido,4335536.01,316,127,2020,6
+2023-02-04,Engenharia Social,Saúde,Japão,Crítica,Em investigação,690286.9,14,393,2023,2
+2021-08-23,Man-in-the-Middle,Energia,Alemanha,Baixa,Resolvido,246605.36,242,641,2021,8
+2024-08-25,Ransomware,Telecomunicações,EUA,Crítica,Em investigação,1924975.19,265,58,2024,8
+2023-07-11,Brute Force,Governo,EUA,Baixa,Contido,145149.9,346,634,2023,7
+2023-06-20,Ransomware,Saúde,EUA,Média,Resolvido,3917308.14,53,513,2023,6
+2024-12-18,Man-in-the-Middle,Saúde,Alemanha,Alta,Resolvido,527258.32,386,96,2024,12
+2024-10-30,DDoS,Governo,China,Média,Em investigação,84104.14,340,638,2024,10
+2022-01-10,Zero-Day,Telecomunicações,EUA,Alta,Resolvido,870523.32,92,118,2022,1
+2023-03-28,Phishing,Tecnologia,França,Alta,Resolvido,319268.9,367,560,2023,3
+2021-01-28,Man-in-the-Middle,Tecnologia,França,Média,Resolvido,554929.59,444,601,2021,1
+2023-12-13,Phishing,Financeiro,Reino Unido,Alta,Resolvido,498738.7,455,488,2023,12
+2020-05-22,Man-in-the-Middle,Saúde,França,Média,Contido,455656.83,428,237,2020,5
+2020-04-03,Ransomware,Educação,EUA,Média,Resolvido,2452871.62,264,272,2020,4
+2023-09-16,Phishing,Tecnologia,Japão,Crítica,Em investigação,58237.13,431,189,2023,9
+2021-04-11,DDoS,Governo,Japão,Baixa,Resolvido,652060.44,35,704,2021,4
+2024-05-02,SQL Injection,Financeiro,Japão,Crítica,Resolvido,1757900.54,206,447,2024,5
+2021-08-15,Ransomware,Tecnologia,Reino Unido,Alta,Resolvido,2496553.48,81,581,2021,8
+2020-06-12,Brute Force,Tecnologia,Brasil,Alta,Em investigação,140330.23,420,247,2020,6
+2024-10-17,DDoS,Saúde,Índia,Média,Resolvido,908252.86,50,76,2024,10
+2021-04-21,Ransomware,Varejo,EUA,Crítica,Resolvido,706959.36,360,154,2021,4
+2024-11-09,DDoS,Saúde,EUA,Média,Resolvido,806336.29,388,656,2024,11
+2020-07-25,Ransomware,Energia,Rússia,Média,Resolvido,1820154.99,2,435,2020,7
+2022-02-17,SQL Injection,Financeiro,China,Média,Contido,812198.07,390,86,2022,2
+2021-07-23,Phishing,Governo,China,Alta,Em investigação,81329.2,54,697,2021,7
+2022-07-17,Zero-Day,Energia,China,Crítica,Em investigação,5405429.92,106,285,2022,7
+2023-07-25,DDoS,Saúde,França,Média,Contido,587631.66,260,220,2023,7
+2024-09-04,SQL Injection,Governo,Argentina,Média,Contido,1605787.0,310,69,2024,9
+2022-01-17,SQL Injection,Saúde,Rússia,Média,Não resolvido,422968.93,477,47,2022,1
+2020-11-29,Brute Force,Financeiro,França,Alta,Contido,20398.83,191,94,2020,11
+2022-01-28,Ransomware,Financeiro,Brasil,Média,Resolvido,4418778.19,402,453,2022,1
+2021-12-28,Phishing,Governo,Índia,Baixa,Em investigação,313658.08,218,204,2021,12
+2021-03-05,Brute Force,Saúde,Índia,Alta,Em investigação,51961.81,44,218,2021,3
+2023-10-04,Ransomware,Telecomunicações,Brasil,Média,Não resolvido,4607730.57,162,474,2023,10
+2021-06-30,Ransomware,Saúde,EUA,Alta,Em investigação,1144029.74,202,432,2021,6
+2023-12-08,Engenharia Social,Financeiro,Rússia,Média,Resolvido,379696.93,446,341,2023,12
+2023-10-31,SQL Injection,Energia,Alemanha,Alta,Resolvido,582556.94,484,551,2023,10
+2023-08-20,Ransomware,Tecnologia,Reino Unido,Média,Resolvido,1648970.19,270,612,2023,8
+2020-05-26,Ransomware,Educação,Japão,Alta,Resolvido,542288.44,351,289,2020,5
+2023-06-01,Ransomware,Tecnologia,França,Crítica,Contido,4120848.85,304,254,2023,6
+2023-07-24,Ransomware,Financeiro,Rússia,Baixa,Contido,4555442.41,271,357,2023,7
+2020-12-16,Ransomware,Saúde,EUA,Baixa,Resolvido,3549248.99,456,23,2020,12
+2022-12-29,Phishing,Tecnologia,Argentina,Crítica,Não resolvido,87408.05,462,522,2022,12
+2024-02-02,Ransomware,Varejo,China,Média,Em investigação,2487784.03,215,100,2024,2
+2021-05-16,Zero-Day,Financeiro,Índia,Média,Contido,3586543.12,252,180,2021,5
+2020-11-30,Brute Force,Varejo,China,Alta,Não resolvido,119576.48,190,223,2020,11
+2022-08-04,Zero-Day,Governo,EUA,Média,Não resolvido,6461599.28,296,659,2022,8
+2022-02-16,Brute Force,Financeiro,EUA,Crítica,Resolvido,87740.24,213,442,2022,2
+2021-07-06,Ransomware,Financeiro,França,Alta,Em investigação,1625442.01,208,608,2021,7
+2023-08-03,DDoS,Saúde,Índia,Alta,Resolvido,853038.73,237,325,2023,8
+2023-11-10,Phishing,Tecnologia,Alemanha,Alta,Contido,107616.33,338,516,2023,11
+2023-02-14,Ransomware,Governo,Reino Unido,Alta,Não resolvido,2231119.62,367,16,2023,2
+2021-03-25,Ransomware,Varejo,Alemanha,Alta,Resolvido,2674436.27,53,336,2021,3
+2023-11-03,DDoS,Governo,Reino Unido,Média,Não resolvido,275345.42,280,258,2023,11
+2021-10-26,Brute Force,Financeiro,Índia,Crítica,Resolvido,116524.93,410,497,2021,10
+2024-09-22,DDoS,Saúde,China,Alta,Contido,596071.33,217,160,2024,9
+2024-04-22,DDoS,Saúde,China,Crítica,Contido,993057.44,252,475,2024,4
+2024-05-08,Phishing,Financeiro,França,Alta,Resolvido,154663.07,188,664,2024,5
+2020-04-24,DDoS,Governo,Japão,Média,Contido,979047.26,380,690,2020,4
+2021-04-14,Zero-Day,Tecnologia,Brasil,Alta,Contido,6650652.2,493,675,2021,4
+2024-08-10,SQL Injection,Governo,Alemanha,Baixa,Resolvido,621512.72,41,380,2024,8
+2020-03-06,Phishing,Financeiro,França,Baixa,Em investigação,287305.22,157,545,2020,3
+2024-07-06,Phishing,Energia,Brasil,Baixa,Contido,346041.75,15,691,2024,7
+2021-10-08,DDoS,Educação,Reino Unido,Média,Em investigação,757435.4,301,427,2021,10
+2022-04-01,Brute Force,Financeiro,Brasil,Média,Não resolvido,14563.63,65,613,2022,4
+2021-07-02,Ransomware,Governo,Reino Unido,Alta,Resolvido,3228829.22,345,268,2021,7
+2020-05-15,Engenharia Social,Saúde,Reino Unido,Alta,Contido,407447.28,327,577,2020,5
+2021-03-08,SQL Injection,Financeiro,Reino Unido,Média,Não resolvido,1817895.05,9,417,2021,3
+2023-03-07,Brute Force,Governo,EUA,Baixa,Em investigação,60807.86,344,168,2023,3
+2024-11-29,Phishing,Educação,Rússia,Média,Em investigação,401441.46,129,43,2024,11
+2024-01-10,Phishing,Saúde,Reino Unido,Média,Resolvido,307461.85,492,556,2024,1
+2021-10-06,Phishing,Governo,EUA,Alta,Não resolvido,182637.27,136,285,2021,10
+2021-03-11,Phishing,Varejo,China,Alta,Contido,321942.76,472,397,2021,3
+2023-09-04,DDoS,Financeiro,Reino Unido,Alta,Em investigação,639846.6,63,12,2023,9
+2022-10-19,Engenharia Social,Telecomunicações,Brasil,Crítica,Resolvido,548656.28,139,607,2022,10
+2022-03-21,Phishing,Financeiro,Reino Unido,Alta,Em investigação,363254.9,499,302,2022,3
+2024-12-16,Ransomware,Governo,Japão,Alta,Resolvido,3466316.93,81,253,2024,12
+2023-08-09,Brute Force,Governo,Alemanha,Baixa,Resolvido,168475.74,392,499,2023,8
+2022-07-28,Phishing,Telecomunicações,Reino Unido,Média,Resolvido,317841.57,163,35,2022,7
+2020-10-19,Brute Force,Governo,Alemanha,Alta,Em investigação,181163.72,419,90,2020,10
+2021-06-26,DDoS,Saúde,Brasil,Baixa,Resolvido,664023.58,289,605,2021,6
+2020-10-12,Phishing,Governo,Alemanha,Média,Não resolvido,161377.11,379,602,2020,10
+2021-05-20,Brute Force,Educação,Japão,Baixa,Resolvido,90960.52,261,418,2021,5
+2024-03-05,Phishing,Telecomunicações,França,Baixa,Resolvido,293991.16,490,115,2024,3
+2023-02-23,SQL Injection,Saúde,Rússia,Crítica,Contido,1491483.56,231,617,2023,2
+2023-01-08,SQL Injection,Financeiro,Japão,Crítica,Não resolvido,271253.41,41,196,2023,1
+2021-06-22,Phishing,Tecnologia,França,Alta,Contido,154604.12,28,501,2021,6
+2024-03-09,Ransomware,Saúde,Reino Unido,Alta,Resolvido,3863663.89,135,626,2024,3
+2023-04-12,Phishing,Varejo,Brasil,Alta,Resolvido,96063.63,201,493,2023,4
+2022-05-27,Man-in-the-Middle,Educação,Rússia,Média,Em investigação,105331.08,328,75,2022,5
+2023-04-10,DDoS,Varejo,Brasil,Crítica,Não resolvido,562437.37,268,413,2023,4
+2022-03-28,Phishing,Varejo,Argentina,Alta,Contido,486029.89,418,376,2022,3
+2022-01-11,Phishing,Saúde,Argentina,Baixa,Contido,270117.66,33,420,2022,1
+2021-03-25,Engenharia Social,Financeiro,Brasil,Baixa,Contido,732519.84,48,277,2021,3
+2020-10-10,DDoS,Governo,Argentina,Alta,Não resolvido,838948.99,407,676,2020,10
+2022-11-09,Engenharia Social,Tecnologia,Brasil,Média,Resolvido,220436.67,62,394,2022,11
+2022-10-07,Brute Force,Financeiro,Alemanha,Média,Não resolvido,165814.51,216,457,2022,10
+2020-07-05,Man-in-the-Middle,Varejo,França,Alta,Resolvido,304653.26,293,192,2020,7
+2024-03-27,Brute Force,Governo,França,Média,Resolvido,162265.26,99,689,2024,3
+2020-04-06,Man-in-the-Middle,Varejo,Argentina,Alta,Resolvido,455538.83,172,99,2020,4
+2024-10-29,Zero-Day,Educação,Índia,Alta,Resolvido,3519409.49,360,548,2024,10
+2020-08-12,Brute Force,Tecnologia,Alemanha,Alta,Resolvido,27458.09,214,96,2020,8
+2020-11-09,SQL Injection,Financeiro,Argentina,Alta,Não resolvido,1929497.26,475,664,2020,11
+2023-07-09,DDoS,Varejo,Rússia,Baixa,Contido,183719.16,35,663,2023,7
+2020-11-23,Engenharia Social,Governo,Japão,Baixa,Não resolvido,773870.16,449,190,2020,11
+2024-06-10,DDoS,Saúde,Argentina,Alta,Em investigação,867133.57,227,37,2024,6
+2023-10-25,Zero-Day,Financeiro,Rússia,Crítica,Resolvido,7297323.78,101,369,2023,10
+2022-05-14,SQL Injection,Financeiro,Índia,Média,Não resolvido,1961890.26,431,695,2022,5
+2023-05-06,DDoS,Financeiro,Índia,Crítica,Em investigação,968906.26,462,525,2023,5
+2020-05-10,Ransomware,Energia,Reino Unido,Baixa,Não resolvido,4120644.4,131,279,2020,5
+2022-02-27,Phishing,Governo,Índia,Alta,Contido,189229.77,257,217,2022,2
+2022-02-20,Brute Force,Telecomunicações,Rússia,Alta,Resolvido,159182.98,5,273,2022,2
+2023-05-05,SQL Injection,Governo,EUA,Crítica,Em investigação,126445.44,218,62,2023,5
+2022-08-16,DDoS,Saúde,Reino Unido,Baixa,Resolvido,559743.69,255,596,2022,8
+2022-12-19,Brute Force,Varejo,Reino Unido,Crítica,Resolvido,93683.28,398,342,2022,12
+2021-05-29,Ransomware,Financeiro,França,Alta,Em investigação,3527727.72,359,397,2021,5
+2023-02-07,Phishing,Saúde,China,Média,Resolvido,339446.99,283,699,2023,2
+2024-10-28,Ransomware,Tecnologia,Brasil,Crítica,Contido,3130520.41,393,19,2024,10
+2020-01-24,Ransomware,Tecnologia,Brasil,Média,Não resolvido,4200877.86,207,177,2020,1
+2023-10-25,Ransomware,Saúde,China,Média,Não resolvido,4731313.51,15,612,2023,10
+2024-01-16,DDoS,Financeiro,Índia,Crítica,Resolvido,152928.8,346,396,2024,1
+2020-08-22,Phishing,Saúde,Reino Unido,Média,Não resolvido,124572.73,42,445,2020,8
+2023-10-28,Phishing,Energia,Reino Unido,Crítica,Não resolvido,22262.08,380,233,2023,10
+2024-12-17,Brute Force,Varejo,Japão,Alta,Resolvido,177425.79,461,76,2024,12
+2023-01-04,SQL Injection,Energia,China,Média,Em investigação,1166674.03,179,265,2023,1
+2024-03-17,Phishing,Saúde,Rússia,Crítica,Não resolvido,458475.4,63,455,2024,3
+2021-06-30,Ransomware,Telecomunicações,China,Alta,Não resolvido,1496152.4,352,718,2021,6
+2024-04-23,DDoS,Governo,Argentina,Média,Resolvido,110056.19,231,384,2024,4
+2023-08-05,Ransomware,Governo,França,Alta,Em investigação,4207349.08,241,564,2023,8
+2021-11-27,Phishing,Energia,EUA,Alta,Não resolvido,455599.94,52,506,2021,11
+2020-08-16,Ransomware,Governo,Japão,Média,Resolvido,1859855.79,96,367,2020,8
+2021-08-24,Zero-Day,Tecnologia,Alemanha,Baixa,Contido,4201299.39,388,144,2021,8
+2022-06-09,Brute Force,Varejo,França,Média,Resolvido,32256.52,222,69,2022,6
+2020-11-19,Brute Force,Financeiro,Japão,Média,Não resolvido,189521.0,485,99,2020,11
+2022-07-18,Engenharia Social,Educação,Brasil,Baixa,Resolvido,257404.38,407,396,2022,7
+2020-01-07,SQL Injection,Tecnologia,China,Média,Contido,1035986.78,231,25,2020,1
+2024-01-18,Ransomware,Governo,EUA,Média,Resolvido,937363.99,237,469,2024,1
+2024-11-28,Phishing,Saúde,Brasil,Alta,Contido,444757.06,143,484,2024,11
+2024-01-13,Ransomware,Financeiro,Reino Unido,Média,Em investigação,1110488.22,171,565,2024,1
+2021-06-23,SQL Injection,Varejo,França,Alta,Contido,961923.14,29,151,2021,6
+2022-10-22,Engenharia Social,Saúde,Brasil,Média,Resolvido,542979.25,36,144,2022,10
+2024-04-09,Man-in-the-Middle,Educação,França,Média,Resolvido,453589.87,13,569,2024,4
+2020-12-31,Ransomware,Governo,Alemanha,Crítica,Resolvido,4756883.39,160,39,2020,12
+2022-11-05,SQL Injection,Varejo,China,Crítica,Resolvido,896340.83,327,109,2022,11
+2020-08-05,DDoS,Saúde,China,Alta,Resolvido,755155.56,187,693,2020,8
+2024-11-17,Brute Force,Financeiro,Japão,Baixa,Resolvido,35131.97,243,42,2024,11
+2023-07-04,Phishing,Tecnologia,Brasil,Crítica,Resolvido,213293.42,86,186,2023,7
+2021-09-03,Phishing,Saúde,Reino Unido,Alta,Resolvido,58520.6,284,398,2021,9
+2024-09-19,DDoS,Telecomunicações,China,Crítica,Contido,514879.69,66,223,2024,9
+2023-08-01,Phishing,Saúde,Japão,Crítica,Não resolvido,209976.78,170,634,2023,8
+2022-11-05,Ransomware,Telecomunicações,França,Crítica,Contido,4781846.86,45,133,2022,11
+2023-06-01,Brute Force,Energia,Rússia,Baixa,Em investigação,11379.68,62,163,2023,6
+2021-02-11,Ransomware,Financeiro,Reino Unido,Crítica,Resolvido,2167384.81,441,215,2021,2
+2020-11-09,Phishing,Educação,Índia,Média,Em investigação,227257.71,134,235,2020,11
+2022-02-04,DDoS,Saúde,Rússia,Alta,Resolvido,953027.41,284,658,2022,2
+2024-04-10,Phishing,Tecnologia,Rússia,Crítica,Em investigação,429170.59,28,588,2024,4
+2020-11-26,Brute Force,Varejo,EUA,Alta,Contido,24374.15,108,9,2020,11
+2023-01-09,Phishing,Telecomunicações,Índia,Alta,Em investigação,345983.33,44,74,2023,1
+2024-05-13,Ransomware,Financeiro,China,Alta,Em investigação,2950096.38,340,492,2024,5
+2022-12-22,DDoS,Educação,Rússia,Alta,Resolvido,978950.4,286,253,2022,12
+2020-01-02,Phishing,Tecnologia,Brasil,Média,Resolvido,185750.18,446,230,2020,1
+2023-05-11,Brute Force,Financeiro,Argentina,Média,Contido,82637.23,331,519,2023,5
+2021-10-25,Phishing,Financeiro,Japão,Alta,Resolvido,103006.2,128,174,2021,10
+2022-09-27,DDoS,Varejo,Argentina,Alta,Resolvido,166051.73,348,653,2022,9
+2020-02-09,Phishing,Saúde,Índia,Crítica,Não resolvido,425536.26,473,168,2020,2
+2020-08-17,Ransomware,Saúde,Alemanha,Baixa,Resolvido,2546228.16,231,170,2020,8
+2022-01-13,Phishing,Educação,Alemanha,Alta,Resolvido,334756.68,190,393,2022,1
+2024-12-04,Ransomware,Educação,Argentina,Média,Resolvido,3387670.1,225,634,2024,12
+2024-08-30,SQL Injection,Varejo,Argentina,Crítica,Contido,1234577.32,385,194,2024,8
+2024-07-10,Ransomware,Energia,Índia,Média,Em investigação,596108.55,377,517,2024,7
+2021-09-21,SQL Injection,Saúde,França,Crítica,Contido,1594909.72,283,29,2021,9
+2021-05-05,Engenharia Social,Varejo,Rússia,Média,Resolvido,209983.74,446,165,2021,5
+2020-04-28,Ransomware,Educação,Alemanha,Baixa,Em investigação,1066657.48,121,422,2020,4
+2021-05-08,Phishing,Governo,EUA,Alta,Em investigação,286643.21,116,339,2021,5
+2024-12-03,Phishing,Saúde,Rússia,Alta,Em investigação,43618.97,461,648,2024,12
+2023-03-07,DDoS,Educação,França,Alta,Resolvido,776899.51,233,496,2023,3
+2020-06-10,Man-in-the-Middle,Saúde,Alemanha,Alta,Não resolvido,148079.7,259,365,2020,6
+2020-06-24,Ransomware,Financeiro,Japão,Alta,Resolvido,1471781.08,359,342,2020,6
+2024-02-07,Brute Force,Varejo,Rússia,Média,Contido,174590.61,198,500,2024,2
+2022-09-22,SQL Injection,Governo,França,Baixa,Resolvido,724263.15,456,657,2022,9
+2024-07-29,Brute Force,Saúde,Japão,Alta,Resolvido,33773.07,411,511,2024,7
+2020-05-21,SQL Injection,Educação,Argentina,Média,Resolvido,1811008.97,137,327,2020,5
+2024-04-06,Zero-Day,Saúde,Reino Unido,Média,Resolvido,227788.4,318,217,2024,4
+2022-12-26,Phishing,Saúde,Argentina,Média,Em investigação,430619.0,165,301,2022,12
+2024-04-17,Phishing,Governo,Reino Unido,Média,Contido,80897.11,225,132,2024,4
+2020-09-14,Phishing,Telecomunicações,EUA,Crítica,Contido,73696.14,307,70,2020,9
+2020-09-19,Phishing,Saúde,China,Média,Resolvido,132820.56,234,252,2020,9
+2023-09-13,Brute Force,Energia,China,Alta,Resolvido,39026.94,172,415,2023,9
+2022-08-31,DDoS,Governo,Índia,Alta,Resolvido,678004.76,152,445,2022,8
+2023-01-30,Phishing,Financeiro,Argentina,Alta,Resolvido,22632.27,463,182,2023,1
+2020-12-04,Brute Force,Tecnologia,Japão,Média,Em investigação,7897.76,315,167,2020,12
+2021-06-26,SQL Injection,Governo,Brasil,Alta,Contido,1600970.86,374,91,2021,6
+2022-12-16,Phishing,Energia,França,Baixa,Resolvido,126586.49,160,714,2022,12
+2024-11-21,Brute Force,Governo,EUA,Baixa,Resolvido,68135.44,96,531,2024,11
+2023-05-27,SQL Injection,Financeiro,China,Alta,Resolvido,431067.78,472,39,2023,5
+2022-05-16,Phishing,Varejo,Índia,Alta,Resolvido,35675.52,233,126,2022,5
+2021-03-09,Engenharia Social,Tecnologia,Índia,Baixa,Em investigação,598540.08,180,451,2021,3
+2023-01-09,Man-in-the-Middle,Saúde,Japão,Crítica,Em investigação,329868.75,113,173,2023,1
+2024-03-26,Phishing,Saúde,EUA,Média,Resolvido,375375.98,318,653,2024,3
+2024-02-03,Phishing,Financeiro,França,Baixa,Resolvido,243360.52,497,220,2024,2
+2023-11-13,Ransomware,Governo,França,Crítica,Resolvido,4001076.68,442,638,2023,11
+2021-02-15,Brute Force,Energia,Reino Unido,Média,Resolvido,105081.4,52,58,2021,2
+2023-12-31,Man-in-the-Middle,Tecnologia,Alemanha,Alta,Resolvido,92160.79,268,660,2023,12
+2021-09-30,Ransomware,Varejo,Japão,Baixa,Contido,2767274.1,295,476,2021,9
+2022-03-28,SQL Injection,Energia,Rússia,Alta,Resolvido,1896289.72,386,456,2022,3
+2023-10-07,Phishing,Educação,Argentina,Média,Resolvido,31248.87,387,361,2023,10
+2023-08-23,Brute Force,Tecnologia,Brasil,Crítica,Em investigação,157729.26,113,1,2023,8
+2022-02-03,Brute Force,Governo,Argentina,Média,Em investigação,174061.28,101,387,2022,2
+2022-06-16,Phishing,Financeiro,Argentina,Alta,Resolvido,265511.1,113,348,2022,6
+2022-11-25,SQL Injection,Financeiro,EUA,Média,Em investigação,970280.79,440,190,2022,11
+2022-07-13,Engenharia Social,Financeiro,Argentina,Média,Resolvido,771940.42,81,505,2022,7
+2020-09-04,Brute Force,Tecnologia,Alemanha,Crítica,Contido,16860.95,187,191,2020,9
+2021-05-22,Phishing,Financeiro,China,Média,Resolvido,244701.14,113,508,2021,5
+2021-04-05,Man-in-the-Middle,Governo,Índia,Média,Resolvido,258921.84,2,369,2021,4
+2020-05-11,SQL Injection,Saúde,China,Média,Resolvido,1403585.24,130,409,2020,5
+2021-11-23,Ransomware,Tecnologia,Argentina,Alta,Em investigação,2706209.84,220,117,2021,11
+2020-02-13,Ransomware,Governo,Reino Unido,Média,Resolvido,4593653.73,54,134,2020,2
+2023-04-19,Ransomware,Educação,França,Alta,Resolvido,830708.22,343,58,2023,4
+2023-02-08,DDoS,Financeiro,Rússia,Alta,Resolvido,126750.95,485,556,2023,2
+2021-04-16,Ransomware,Saúde,Reino Unido,Baixa,Contido,3237338.41,224,685,2021,4
+2023-04-20,Engenharia Social,Telecomunicações,Rússia,Alta,Em investigação,71232.14,225,672,2023,4
+2021-03-27,Engenharia Social,Varejo,China,Baixa,Resolvido,234512.48,385,173,2021,3
+2020-01-15,Phishing,Governo,Reino Unido,Média,Resolvido,320207.59,403,149,2020,1
+2020-05-25,Man-in-the-Middle,Varejo,Alemanha,Alta,Em investigação,342563.17,126,80,2020,5
+2023-12-20,Brute Force,Tecnologia,Brasil,Baixa,Não resolvido,68411.16,130,213,2023,12
+2023-07-16,Engenharia Social,Financeiro,Argentina,Alta,Em investigação,795809.65,53,203,2023,7
+2020-04-30,SQL Injection,Telecomunicações,Alemanha,Crítica,Em investigação,1108057.99,172,229,2020,4
+2021-04-13,DDoS,Educação,Japão,Crítica,Contido,481029.65,218,676,2021,4
+2020-05-18,SQL Injection,Governo,Argentina,Média,Contido,1250310.9,160,227,2020,5
+2020-03-05,Man-in-the-Middle,Varejo,Rússia,Baixa,Resolvido,86531.72,198,659,2020,3
+2024-10-26,Ransomware,Saúde,Alemanha,Baixa,Em investigação,3658007.38,416,532,2024,10
+2021-11-07,Engenharia Social,Tecnologia,Reino Unido,Média,Contido,685178.34,247,441,2021,11
+2020-05-25,DDoS,Tecnologia,China,Alta,Em investigação,668370.83,324,402,2020,5
+2022-11-18,DDoS,Educação,EUA,Baixa,Contido,780514.59,439,47,2022,11
+2021-05-02,DDoS,Financeiro,China,Média,Em investigação,734797.92,203,233,2021,5
+2021-07-24,SQL Injection,Telecomunicações,Argentina,Crítica,Resolvido,508543.83,184,305,2021,7
+2023-10-02,Ransomware,Governo,Reino Unido,Baixa,Não resolvido,2531997.12,123,526,2023,10
+2022-09-21,Engenharia Social,Energia,Alemanha,Alta,Contido,198224.99,401,143,2022,9
+2021-03-14,Engenharia Social,Financeiro,EUA,Alta,Em investigação,284366.66,255,415,2021,3
+2023-01-09,Phishing,Financeiro,Rússia,Baixa,Não resolvido,232214.46,294,513,2023,1
+2020-09-27,Zero-Day,Financeiro,Rússia,Crítica,Contido,4276698.57,280,373,2020,9
+2024-01-21,Phishing,Financeiro,Japão,Baixa,Em investigação,56592.06,325,566,2024,1
+2024-12-12,DDoS,Saúde,Alemanha,Alta,Em investigação,455425.81,372,259,2024,12
+2023-03-15,Brute Force,Varejo,Índia,Baixa,Resolvido,134696.03,98,656,2023,3
+2023-03-26,Ransomware,Saúde,Índia,Alta,Contido,2184354.61,198,471,2023,3
+2022-08-26,Phishing,Energia,China,Média,Resolvido,84793.07,470,12,2022,8
+2021-05-12,Engenharia Social,Energia,Japão,Alta,Não resolvido,739928.33,395,330,2021,5
+2024-05-25,Phishing,Tecnologia,Argentina,Alta,Não resolvido,42895.32,240,358,2024,5
+2022-08-26,Phishing,Saúde,Índia,Média,Contido,417568.23,144,408,2022,8
+2024-07-11,SQL Injection,Educação,Alemanha,Média,Resolvido,277137.19,97,668,2024,7
+2022-04-13,Ransomware,Governo,EUA,Alta,Resolvido,934539.95,201,373,2022,4
+2021-01-24,Zero-Day,Financeiro,França,Crítica,Não resolvido,7440200.79,124,8,2021,1
+2020-07-12,SQL Injection,Saúde,EUA,Baixa,Resolvido,1642361.64,187,122,2020,7
+2020-07-17,Ransomware,Governo,França,Baixa,Não resolvido,3003668.31,326,348,2020,7
+2023-09-11,Phishing,Governo,Alemanha,Alta,Em investigação,297367.89,464,676,2023,9
+2022-06-01,Zero-Day,Financeiro,Argentina,Alta,Contido,5703546.86,349,90,2022,6
+2021-12-26,Phishing,Energia,Reino Unido,Média,Resolvido,171526.53,259,648,2021,12
+2022-05-17,SQL Injection,Financeiro,Índia,Crítica,Não resolvido,332239.44,148,698,2022,5
+2022-04-21,DDoS,Educação,Brasil,Média,Não resolvido,385918.18,252,316,2022,4
+2022-08-14,SQL Injection,Varejo,Brasil,Baixa,Resolvido,1364146.99,443,178,2022,8
+2024-11-04,Brute Force,Educação,Japão,Média,Resolvido,151305.43,420,540,2024,11
+2024-02-02,Brute Force,Tecnologia,Argentina,Baixa,Resolvido,174277.97,403,41,2024,2
+2020-04-20,DDoS,Educação,Índia,Alta,Resolvido,735007.64,346,704,2020,4
+2023-10-11,SQL Injection,Tecnologia,França,Alta,Resolvido,1939957.39,451,502,2023,10
+2023-08-31,Phishing,Financeiro,Alemanha,Alta,Em investigação,304200.94,147,145,2023,8
+2023-08-16,Phishing,Financeiro,Japão,Alta,Contido,182306.63,148,201,2023,8
+2020-07-20,Brute Force,Educação,China,Alta,Contido,117694.11,352,461,2020,7
+2020-05-04,Ransomware,Educação,França,Crítica,Em investigação,1457324.63,199,558,2020,5
+2022-04-04,Brute Force,Educação,Brasil,Alta,Em investigação,133063.58,308,547,2022,4
+2024-01-31,DDoS,Varejo,Reino Unido,Média,Resolvido,263032.63,489,253,2024,1
+2021-11-25,DDoS,Governo,Rússia,Alta,Resolvido,152807.46,417,390,2021,11
+2024-06-27,Ransomware,Educação,Índia,Alta,Resolvido,4304180.38,424,594,2024,6
+2024-10-30,SQL Injection,Governo,Índia,Alta,Em investigação,798366.0,128,256,2024,10
+2020-08-11,Ransomware,Educação,Índia,Média,Contido,3931725.34,39,709,2020,8
+2021-05-24,SQL Injection,Saúde,Alemanha,Baixa,Não resolvido,1190790.01,338,450,2021,5
+2021-01-27,Ransomware,Telecomunicações,Alemanha,Crítica,Não resolvido,4132496.17,360,10,2021,1
+2021-01-24,Ransomware,Governo,Brasil,Crítica,Em investigação,4303198.23,129,242,2021,1
+2023-01-03,Phishing,Tecnologia,Reino Unido,Alta,Resolvido,487527.84,267,251,2023,1
+2022-07-07,Phishing,Varejo,Brasil,Baixa,Resolvido,411029.16,476,5,2022,7
+2020-10-14,Phishing,Saúde,Reino Unido,Alta,Em investigação,310650.91,441,119,2020,10
+2022-05-14,DDoS,Financeiro,China,Alta,Resolvido,660564.21,473,374,2022,5
+2021-01-10,SQL Injection,Financeiro,Argentina,Alta,Resolvido,149882.28,434,65,2021,1
+2021-07-24,Phishing,Governo,Brasil,Crítica,Resolvido,465251.3,151,146,2021,7
+2022-08-05,Phishing,Governo,Japão,Crítica,Em investigação,416435.79,415,224,2022,8
+2021-05-26,DDoS,Financeiro,Índia,Crítica,Em investigação,304075.34,478,239,2021,5
+2024-11-25,SQL Injection,Educação,Japão,Baixa,Resolvido,442790.54,298,177,2024,11
+2020-06-03,Man-in-the-Middle,Saúde,Argentina,Crítica,Resolvido,430538.3,99,282,2020,6
+2022-06-26,DDoS,Varejo,EUA,Alta,Resolvido,343535.45,263,63,2022,6
+2024-07-12,Ransomware,Varejo,Brasil,Média,Em investigação,2029210.96,252,217,2024,7
+2024-10-30,Phishing,Tecnologia,EUA,Alta,Em investigação,12991.84,144,689,2024,10
+2024-10-19,Phishing,Telecomunicações,EUA,Alta,Resolvido,436232.73,346,461,2024,10
+2023-02-01,Phishing,Financeiro,Reino Unido,Crítica,Contido,287497.34,112,610,2023,2
+2020-07-19,Phishing,Saúde,Japão,Alta,Resolvido,206384.33,60,105,2020,7
+2020-04-13,Phishing,Educação,China,Baixa,Resolvido,79518.58,369,99,2020,4
+2023-08-28,DDoS,Saúde,Rússia,Baixa,Contido,651513.41,2,511,2023,8
+2023-01-12,Ransomware,Governo,Rússia,Média,Não resolvido,637956.94,385,385,2023,1
+2024-09-08,Man-in-the-Middle,Saúde,Alemanha,Baixa,Contido,455283.7,304,405,2024,9
+2020-01-31,DDoS,Saúde,Reino Unido,Baixa,Resolvido,254376.24,254,518,2020,1
+2020-07-10,Brute Force,Financeiro,Argentina,Alta,Contido,86867.34,140,476,2020,7
+2024-03-23,Phishing,Saúde,China,Alta,Resolvido,177039.03,453,709,2024,3
+2024-10-04,Engenharia Social,Saúde,Índia,Alta,Resolvido,308641.41,37,645,2024,10
+2021-04-29,DDoS,Educação,Japão,Alta,Em investigação,735516.17,160,437,2021,4
+2020-12-06,Engenharia Social,Saúde,Índia,Média,Em investigação,625931.78,9,23,2020,12
+2022-04-12,DDoS,Tecnologia,Japão,Alta,Resolvido,589213.88,233,565,2022,4
+2022-09-21,DDoS,Financeiro,França,Baixa,Contido,130709.19,99,677,2022,9
+2022-09-12,DDoS,Saúde,Brasil,Alta,Resolvido,99978.39,147,714,2022,9
+2021-03-13,Phishing,Educação,Rússia,Alta,Não resolvido,87130.85,304,458,2021,3
+2024-11-05,Phishing,Saúde,Reino Unido,Média,Resolvido,312740.71,208,83,2024,11
+2022-04-01,Zero-Day,Varejo,Brasil,Média,Contido,6804893.36,131,145,2022,4
+2020-04-30,DDoS,Governo,Brasil,Alta,Resolvido,308497.7,404,85,2020,4
+2020-12-03,Engenharia Social,Governo,EUA,Média,Resolvido,536312.18,152,78,2020,12
+2022-02-15,Ransomware,Governo,Alemanha,Crítica,Em investigação,2685477.67,54,457,2022,2
+2020-01-05,Phishing,Saúde,Alemanha,Alta,Resolvido,226601.65,120,1,2020,1
+2022-03-10,Brute Force,Financeiro,França,Média,Resolvido,58267.53,161,51,2022,3
+2021-06-27,Phishing,Energia,Reino Unido,Alta,Contido,379922.14,408,685,2021,6
+2024-05-24,Phishing,Governo,Japão,Crítica,Contido,65770.58,116,717,2024,5
+2024-05-26,DDoS,Telecomunicações,Brasil,Alta,Contido,458417.95,75,446,2024,5
+2022-07-20,Ransomware,Financeiro,Reino Unido,Baixa,Contido,1774609.12,113,449,2022,7
+2021-08-07,Man-in-the-Middle,Saúde,Brasil,Alta,Contido,416737.17,456,488,2021,8
+2022-05-16,Phishing,Financeiro,China,Alta,Em investigação,248450.05,420,34,2022,5
+2023-11-27,SQL Injection,Governo,Japão,Crítica,Resolvido,1367551.86,422,348,2023,11
+2024-02-05,Brute Force,Energia,Japão,Baixa,Resolvido,13856.39,104,95,2024,2
+2024-05-23,SQL Injection,Educação,Alemanha,Baixa,Em investigação,851000.45,340,72,2024,5
+2023-02-12,Phishing,Governo,Brasil,Média,Resolvido,303669.23,254,551,2023,2
+2023-09-17,DDoS,Governo,Brasil,Alta,Contido,57302.73,227,154,2023,9
+2024-01-11,DDoS,Tecnologia,Argentina,Alta,Contido,336348.39,112,250,2024,1
+2022-09-23,DDoS,Governo,Japão,Média,Resolvido,250672.28,473,674,2022,9
+2020-11-13,Engenharia Social,Energia,Reino Unido,Alta,Resolvido,127043.15,99,438,2020,11
+2021-01-23,Man-in-the-Middle,Varejo,Brasil,Alta,Contido,175646.12,153,118,2021,1
+2021-08-30,Ransomware,Varejo,Argentina,Baixa,Contido,1976550.6,349,306,2021,8
+2021-03-21,Brute Force,Saúde,Rússia,Alta,Resolvido,6507.33,402,268,2021,3
+2020-04-29,Brute Force,Governo,Argentina,Alta,Em investigação,150667.75,384,54,2020,4
+2023-04-01,SQL Injection,Educação,Reino Unido,Média,Não resolvido,433820.12,366,236,2023,4
+2024-02-15,Zero-Day,Financeiro,França,Crítica,Contido,3926032.97,338,389,2024,2
+2023-01-15,Phishing,Governo,França,Alta,Resolvido,354798.92,194,401,2023,1
+2020-05-04,Phishing,Financeiro,Rússia,Alta,Contido,255128.55,310,624,2020,5
+2024-03-11,Brute Force,Governo,Brasil,Alta,Em investigação,167504.07,163,303,2024,3
+2021-10-04,Phishing,Varejo,EUA,Média,Em investigação,405038.09,208,207,2021,10
+2020-04-27,Phishing,Saúde,China,Baixa,Resolvido,45316.99,445,229,2020,4
+2020-04-12,Phishing,Telecomunicações,Japão,Alta,Resolvido,432264.54,169,578,2020,4
+2023-04-11,Phishing,Varejo,Rússia,Média,Resolvido,30728.11,484,75,2023,4
+2022-09-03,DDoS,Financeiro,Japão,Crítica,Em investigação,67804.46,161,435,2022,9
+2022-10-26,Brute Force,Telecomunicações,Rússia,Alta,Resolvido,184626.67,68,103,2022,10
+2024-10-12,Ransomware,Saúde,França,Baixa,Contido,4379495.06,289,422,2024,10
+2022-12-23,Phishing,Tecnologia,EUA,Crítica,Em investigação,292121.99,398,704,2022,12
+2020-11-18,SQL Injection,Saúde,Argentina,Média,Resolvido,1189459.39,277,306,2020,11
+2020-04-26,SQL Injection,Energia,França,Baixa,Resolvido,1448048.03,304,98,2020,4
+2022-11-06,DDoS,Varejo,Reino Unido,Alta,Contido,446809.26,404,335,2022,11
+2020-06-13,Brute Force,Financeiro,Argentina,Alta,Contido,27458.81,384,435,2020,6
+2024-10-09,Zero-Day,Governo,Brasil,Baixa,Em investigação,404394.28,392,447,2024,10
+2021-01-15,SQL Injection,Governo,Alemanha,Alta,Resolvido,717059.54,135,308,2021,1
+2020-05-20,Brute Force,Financeiro,Japão,Média,Resolvido,161257.82,195,249,2020,5
+2023-05-03,Brute Force,Financeiro,Rússia,Alta,Resolvido,125534.43,401,166,2023,5
+2020-05-19,Zero-Day,Saúde,França,Alta,Em investigação,8353853.95,128,481,2020,5
+2023-10-14,Ransomware,Governo,Argentina,Média,Não resolvido,4638963.88,33,335,2023,10
+2024-10-31,DDoS,Governo,Rússia,Média,Contido,133723.39,176,542,2024,10
+2021-04-26,Brute Force,Educação,França,Baixa,Em investigação,169674.45,460,106,2021,4
+2022-04-06,Zero-Day,Governo,Brasil,Alta,Em investigação,2584501.45,443,563,2022,4
+2020-09-02,Engenharia Social,Saúde,China,Alta,Resolvido,479319.6,371,81,2020,9
+2024-12-28,Phishing,Educação,Argentina,Média,Resolvido,266741.65,470,133,2024,12
+2023-03-12,Phishing,Financeiro,Alemanha,Alta,Resolvido,203925.68,375,138,2023,3
+2021-05-19,Ransomware,Telecomunicações,Rússia,Baixa,Contido,1896235.53,22,184,2021,5
+2023-03-31,SQL Injection,Varejo,Argentina,Crítica,Contido,745075.23,238,401,2023,3
+2023-05-02,DDoS,Saúde,Alemanha,Média,Resolvido,366415.19,158,330,2023,5
+2020-03-22,Ransomware,Saúde,Índia,Alta,Não resolvido,1256597.19,38,508,2020,3
+2023-06-22,Phishing,Tecnologia,Índia,Média,Em investigação,260136.81,230,69,2023,6
+2020-06-16,Brute Force,Governo,Brasil,Média,Em investigação,27235.19,365,546,2020,6
+2022-05-08,Brute Force,Varejo,Índia,Crítica,Resolvido,104440.65,51,53,2022,5
+2023-09-08,Zero-Day,Saúde,França,Crítica,Resolvido,9078042.77,438,450,2023,9
+2023-04-10,DDoS,Tecnologia,França,Alta,Contido,381906.5,264,205,2023,4
+2023-03-03,DDoS,Saúde,Brasil,Crítica,Resolvido,741010.15,283,126,2023,3
+2022-12-06,Phishing,Varejo,EUA,Alta,Não resolvido,411284.81,27,43,2022,12
+2021-10-09,Phishing,Telecomunicações,França,Média,Em investigação,409368.13,226,111,2021,10
+2021-06-18,DDoS,Educação,Índia,Média,Resolvido,274455.41,277,663,2021,6
+2021-02-22,Ransomware,Tecnologia,França,Média,Resolvido,1158998.98,286,183,2021,2
+2023-10-03,Ransomware,Varejo,Rússia,Alta,Resolvido,1387723.11,97,95,2023,10
+2024-01-06,Phishing,Varejo,EUA,Média,Resolvido,305175.5,284,374,2024,1
+2021-10-05,Man-in-the-Middle,Financeiro,Brasil,Baixa,Em investigação,463322.72,367,520,2021,10
+2021-05-03,Engenharia Social,Governo,Rússia,Média,Em investigação,531297.03,448,360,2021,5
+2021-06-27,DDoS,Telecomunicações,Rússia,Alta,Contido,218288.82,481,696,2021,6
+2022-03-21,Man-in-the-Middle,Tecnologia,China,Crítica,Resolvido,470523.41,453,281,2022,3
+2020-09-25,Man-in-the-Middle,Varejo,EUA,Média,Resolvido,311646.7,317,195,2020,9
+2023-10-07,Brute Force,Educação,EUA,Crítica,Em investigação,152116.94,304,195,2023,10
+2023-08-14,Ransomware,Varejo,Alemanha,Crítica,Em investigação,3919447.17,147,667,2023,8
+2021-09-06,Phishing,Educação,Reino Unido,Crítica,Contido,229963.58,4,93,2021,9
+2022-07-25,SQL Injection,Financeiro,Alemanha,Baixa,Resolvido,1855893.09,35,672,2022,7
+2021-10-09,DDoS,Educação,Brasil,Alta,Em investigação,586267.19,192,61,2021,10
+2024-03-19,Brute Force,Educação,Rússia,Média,Em investigação,128883.17,49,634,2024,3
+2020-05-28,Zero-Day,Tecnologia,Brasil,Crítica,Resolvido,6320313.44,17,51,2020,5
+2020-01-20,Phishing,Financeiro,Reino Unido,Média,Resolvido,433480.97,172,403,2020,1
+2022-07-27,Brute Force,Varejo,Rússia,Alta,Resolvido,127307.39,220,5,2022,7
+2023-06-26,Brute Force,Financeiro,Rússia,Baixa,Não resolvido,34436.69,158,466,2023,6
+2023-02-27,DDoS,Energia,China,Média,Em investigação,114871.95,477,604,2023,2
+2020-07-23,Phishing,Financeiro,Rússia,Alta,Contido,226681.95,46,682,2020,7
+2020-05-30,Ransomware,Financeiro,Brasil,Média,Resolvido,1862691.96,373,534,2020,5
+2023-01-06,Ransomware,Saúde,Argentina,Alta,Contido,1736031.5,6,405,2023,1
+2021-03-12,Brute Force,Financeiro,Argentina,Alta,Contido,15953.56,99,513,2021,3
+2022-11-02,Engenharia Social,Varejo,Argentina,Alta,Resolvido,415722.77,380,645,2022,11
+2021-06-27,Ransomware,Governo,Reino Unido,Alta,Resolvido,1896835.33,233,233,2021,6
+2020-09-28,Brute Force,Varejo,EUA,Alta,Contido,93123.2,37,524,2020,9
+2021-12-15,Ransomware,Energia,Rússia,Média,Contido,756005.23,280,346,2021,12
+2024-12-09,Zero-Day,Tecnologia,EUA,Crítica,Contido,8350626.99,349,46,2024,12
+2020-05-20,Engenharia Social,Varejo,Rússia,Alta,Contido,79850.18,497,546,2020,5
+2024-12-05,DDoS,Financeiro,Alemanha,Média,Em investigação,871037.53,302,78,2024,12
+2021-05-15,DDoS,Financeiro,Brasil,Baixa,Em investigação,862528.7,181,73,2021,5
+2022-01-26,Ransomware,Financeiro,Alemanha,Média,Em investigação,3267537.75,95,249,2022,1
+2021-08-06,Ransomware,Saúde,Alemanha,Média,Contido,2781805.18,99,47,2021,8
+2020-11-19,Man-in-the-Middle,Varejo,Alemanha,Média,Em investigação,293745.65,188,121,2020,11
+2022-06-16,Ransomware,Governo,Brasil,Crítica,Não resolvido,2994423.67,481,214,2022,6
+2024-09-03,DDoS,Saúde,China,Crítica,Resolvido,802226.91,116,239,2024,9
+2023-01-17,Man-in-the-Middle,Financeiro,China,Crítica,Resolvido,540649.76,191,56,2023,1
+2023-12-11,Brute Force,Energia,Índia,Baixa,Resolvido,92698.07,253,350,2023,12
+2021-09-11,DDoS,Saúde,Reino Unido,Alta,Resolvido,819325.12,469,107,2021,9
+2023-06-06,Ransomware,Saúde,EUA,Crítica,Contido,3433268.55,416,48,2023,6
+2024-07-10,Phishing,Varejo,EUA,Alta,Em investigação,167548.11,471,573,2024,7
+2023-09-01,Ransomware,Varejo,Rússia,Baixa,Resolvido,2640330.63,161,337,2023,9
+2022-12-19,SQL Injection,Educação,Argentina,Alta,Contido,386636.05,256,26,2022,12
+2020-01-17,Brute Force,Varejo,Rússia,Média,Resolvido,17065.37,323,257,2020,1
+2023-09-29,SQL Injection,Educação,Índia,Alta,Em investigação,296653.57,128,8,2023,9
+2024-07-31,Phishing,Financeiro,Japão,Baixa,Contido,450572.15,18,625,2024,7
+2023-02-09,DDoS,Saúde,Rússia,Crítica,Não resolvido,376265.89,281,253,2023,2
+2021-09-05,Zero-Day,Governo,Rússia,Alta,Em investigação,7200292.38,490,692,2021,9
+2023-09-20,DDoS,Saúde,Japão,Baixa,Em investigação,529321.55,223,719,2023,9
+2020-07-31,Brute Force,Telecomunicações,Japão,Crítica,Contido,38648.99,54,303,2020,7
+2024-12-03,Phishing,Saúde,Argentina,Crítica,Contido,131394.42,58,639,2024,12
+2020-10-02,Man-in-the-Middle,Saúde,EUA,Alta,Contido,279522.22,323,56,2020,10
+2021-06-25,Brute Force,Financeiro,Rússia,Alta,Resolvido,90687.25,360,526,2021,6
+2020-08-24,Phishing,Varejo,Argentina,Média,Resolvido,266146.54,174,474,2020,8
+2024-12-27,Phishing,Saúde,China,Crítica,Resolvido,87785.64,280,28,2024,12
+2020-08-07,DDoS,Saúde,Rússia,Baixa,Resolvido,404209.38,114,78,2020,8
+2024-02-29,DDoS,Energia,Argentina,Baixa,Contido,318748.9,288,216,2024,2
+2023-02-07,Phishing,Tecnologia,Argentina,Baixa,Contido,210297.0,431,386,2023,2
+2020-11-14,Man-in-the-Middle,Saúde,China,Crítica,Resolvido,222869.27,342,365,2020,11
+2021-07-11,Zero-Day,Financeiro,Índia,Baixa,Em investigação,6059281.45,151,666,2021,7
+2021-07-31,DDoS,Varejo,Alemanha,Alta,Resolvido,799765.58,450,526,2021,7
